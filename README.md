@@ -1,5 +1,13 @@
 # 🤖 Intelligent Navigation Robot
 
+---
+## 📽️ Project Demo
+Check out the working video demonstration of the project:
+👉 **[Watch the Demo Video on LinkedIn](https://www.linkedin.com/posts/ahmed-ashraf-abdoun_robotics-embeddedsystems-arduino-activity-7488532828675280915-uvfA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFzffFcBcJHshVkb0FFzBLMRdlbfaMp3SXY)**
+
+
+---
+
 ## 📌 Overview
 This project is an **Intelligent Navigation Robot** built using Arduino.  
 The robot can detect obstacles and autonomously navigate its environment using ultrasonic sensing.
